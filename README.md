@@ -73,9 +73,32 @@ You can switch between the primary and secondary weapon by pressing 'E'.</p>
 <p>Randomly released by enemies when killed. Disappears after 1 second and restores 1 <i>soul</i> point.<br>
 <strong>Note:</strong> only <i><strong>Ghost</strong></i> players can see it.</p>
 
+# Game Modes
+<h2>Single-Player</h2>
+<img src='https://user-images.githubusercontent.com/115114976/200116799-47dbce0b-4789-4956-b60e-ee7144e3d463.png' height='100px'/>
+<p>To start a single player match, just click the above icon after you have chosen your weapon</p>
 
+<h2>Multi-Player (LAN)</h2>
+<img src='https://user-images.githubusercontent.com/115114976/200116802-67a96393-af0e-453d-9483-c844547bcaf5.png' height='100px'/>
+<p>First, you have to choose your weapon and click on the icon above.<br>
+Then this menu will appear:</p>
+<img src='https://user-images.githubusercontent.com/115114976/200116980-4ee8e707-f71b-49e4-89ae-fbbf957b7381.png'/>
+<p>Here you can choose either to host a game (icon on the right) or to search for a game on your LAN (icon on the left)</p>
 
-
+<h3>Lobby</h3>
+<img src='https://user-images.githubusercontent.com/115114976/200117154-8fed081b-3ef6-4d51-8688-eabc7965624c.png'/>
+<p>Buttons on the screen:</p>
+<ul>
+  <li>
+    <img src='https://user-images.githubusercontent.com/115114976/200117256-78a29f51-b3ae-4b02-93fa-70612001cd52.png'/>
+  </li>
+  <li>
+    <img src='https://user-images.githubusercontent.com/115114976/200117240-ad9c3ff1-20d2-451d-ac10-3e258b8b73e0.png'/>
+  </li>
+  <li>
+    <img src='https://user-images.githubusercontent.com/115114976/200117258-288e4090-aa31-47ad-989f-64dfc3b4ef85.png'/>
+  </li>
+</ul>
 
 
 
