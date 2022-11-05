@@ -42,3 +42,44 @@ You can switch between the primary and secondary weapon by pressing 'E'.</p>
   </ul>
   <li>Secondary: automatic, 0.7</li>
 </ul>
+
+# Enemies
+<p>At the moment, there are only two enemies in the game.</p>
+
+<h2>Virro</h2>
+<img src='https://user-images.githubusercontent.com/115114976/200116321-d74d1dc9-6b8c-4b83-a832-22c7428001dd.png'/>
+<p>Chases the nearest player.</p>
+<ul>
+   <li>Health: 2</li>
+   <li>Damage: 1</li>
+</ul>
+
+<h2>VirroX</h2>
+<img src='https://user-images.githubusercontent.com/115114976/200116333-be05270e-8672-4ab1-8db2-98c523f5fe06.png'/>
+<p>Chases the nearest player and shoots a bullet every 5 seconds against him.</p>
+<ul>
+   <li>Health: 4</li>
+   <li>Damage per shot: 2</li>
+</ul>
+
+# Collectables
+
+<h2>Charge</h2>
+<img src='https://user-images.githubusercontent.com/115114976/200116394-75146167-b1c3-4f18-bc12-071c6758d633.png'/>
+<p>Randomly released by enemies when killed. Disappears after 1 second and restores 1 <i>health</i> point</p>
+
+<h2>Soul</h2>
+<img src='https://user-images.githubusercontent.com/115114976/200116397-7d1d2e58-7637-4b77-bd56-5f90566ef2d9.png'/>
+<p>Randomly released by enemies when killed. Disappears after 1 second and restores 1 <i>soul</i> point.<br>
+<strong>Note:</strong> only <i><strong>Ghost</strong></i> players can see it.</p>
+
+
+
+
+
+
+
+
+
+
+
