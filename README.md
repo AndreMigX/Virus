@@ -88,17 +88,11 @@ Then this menu will appear:</p>
 <h3>Lobby</h3>
 <img src='https://user-images.githubusercontent.com/115114976/200117154-8fed081b-3ef6-4d51-8688-eabc7965624c.png'/>
 <p>Buttons on the screen:</p>
-<ul>
-  <li>
-    <img src='https://user-images.githubusercontent.com/115114976/200117256-78a29f51-b3ae-4b02-93fa-70612001cd52.png'/>
-  </li>
-  <li>
-    <img src='https://user-images.githubusercontent.com/115114976/200117240-ad9c3ff1-20d2-451d-ac10-3e258b8b73e0.png'/>
-  </li>
-  <li>
-    <img src='https://user-images.githubusercontent.com/115114976/200117258-288e4090-aa31-47ad-989f-64dfc3b4ef85.png'/>
-  </li>
-</ul>
+<img src='https://user-images.githubusercontent.com/115114976/200117256-78a29f51-b3ae-4b02-93fa-70612001cd52.png'/>
+
+<img src='https://user-images.githubusercontent.com/115114976/200117240-ad9c3ff1-20d2-451d-ac10-3e258b8b73e0.png'/>
+
+<img src='https://user-images.githubusercontent.com/115114976/200117258-288e4090-aa31-47ad-989f-64dfc3b4ef85.png'/>
 
 
 
