@@ -5,17 +5,17 @@
 
 <h2>Movement</h2>
 <ul>
-  <li>W: Up</li>
-  <li>A: Left</li>
-  <li>S: Down</li>
-  <li>D: Right</li>
+  <li><strong>W</strong>: Up</li>
+  <li><strong>A</strong>: Left</li>
+  <li><strong>S</strong>: Down</li>
+  <li><strong>D</strong>: Right</li>
 </ul>
 
 <h2>Attack</h2>
 <ul>
-  <li>Mouse pointer: Aim</li>
-  <li>Left mouse button: Fire</li>
-  <li>E: Switch weapon</li>
+  <li><strong>Mouse pointer</strong>: Aim</li>
+  <li><strong>Left mouse button</strong>: Fire</li>
+  <li><strong>E</strong>: Switch weapon</li>
 </ul>
 
 # Weapons
