@@ -98,8 +98,12 @@ Then this menu will appear:</p>
 <img src='https://user-images.githubusercontent.com/115114976/200117258-288e4090-aa31-47ad-989f-64dfc3b4ef85.png'/>
 <p>Start the game.<br><strong>Note</strong>: only visible to the host when all players are ready to start.</p>
 
-
-
+# What happens when the player dies?
+<h2>Single-Player</h2>
+<p>Game Over</p>
+<h2>Multi-Player</h2>
+<p>The player will become a <strong><i>Ghost</i></strong></p>
+<img src='https://user-images.githubusercontent.com/115114976/200331703-be0bac11-d549-4b2b-aa3f-03b4ebd1dbc3.png'/>
 
 
 
