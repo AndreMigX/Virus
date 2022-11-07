@@ -104,6 +104,20 @@ Then this menu will appear:</p>
 <h2>Multi-Player</h2>
 <p>The player will become a <strong><i>Ghost</i></strong></p>
 <img src='https://user-images.githubusercontent.com/115114976/200331703-be0bac11-d549-4b2b-aa3f-03b4ebd1dbc3.png'/>
-<p>In this state, the player is invisible to enemies and if he collects <strong>8</strong> <i>souls</i>, he can return to the battlefield.</p>
+<p>In this state, the player is invisible to enemies and if he collects <strong>8</strong> <i>souls</i>, he can return to the battlefield.
+<br><strong>Note</strong>: if all the players die, the game will end.</p>
+
+# Info during the game
+<img src='https://user-images.githubusercontent.com/115114976/200333332-665b6924-c291-4ac0-b5a0-d8155ac098d1.png'/>
+<ul>
+  <li>Upper left: pause button</li>
+  <li>Upper right: player's health;</li>
+  <li>Bottom right: wave number, the bigger the harder the game is;</li>
+</ul>
+
+
+
+
+
 
 
