@@ -71,7 +71,7 @@ You can switch between the primary and secondary weapon by pressing 'E'.</p>
 <h2>Soul</h2>
 <img src='https://user-images.githubusercontent.com/115114976/200116397-7d1d2e58-7637-4b77-bd56-5f90566ef2d9.png'/>
 <p>Randomly released by enemies when killed. Disappears after 1 second and restores 1 <i>soul</i> point.<br>
-<strong>Note:</strong> only <i><strong>Ghost</strong></i> players can see it.</p>
+<strong>Note:</strong> only <a href='#what-happens-when-the-player-dies'><i><strong>Ghost</strong></i></a> players can see it.</p>
 
 # Game Modes
 <h2>Single-Player</h2>
