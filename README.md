@@ -104,6 +104,6 @@ Then this menu will appear:</p>
 <h2>Multi-Player</h2>
 <p>The player will become a <strong><i>Ghost</i></strong></p>
 <img src='https://user-images.githubusercontent.com/115114976/200331703-be0bac11-d549-4b2b-aa3f-03b4ebd1dbc3.png'/>
-
+<p>In this state, the player is invisible to enemies and if he collects <strong>8</strong> <i>souls</i>, he can return to the battlefield.</p>
 
 
