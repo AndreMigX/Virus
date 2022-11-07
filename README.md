@@ -110,9 +110,9 @@ Then this menu will appear:</p>
 # Info during the game
 <img src='https://user-images.githubusercontent.com/115114976/200333332-665b6924-c291-4ac0-b5a0-d8155ac098d1.png'/>
 <ul>
-  <li>Upper left: pause button</li>
-  <li>Upper right: player's health;</li>
-  <li>Bottom right: wave number, the bigger the harder the game is;</li>
+  <li><strong>Upper left</strong>: pause button</li>
+  <li><strong>Upper right</strong>: player's health;</li>
+  <li><strong>Bottom right</strong>: wave number, the higher the harder the game is;</li>
 </ul>
 
 
